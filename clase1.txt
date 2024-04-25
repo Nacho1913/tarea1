@@ -1,0 +1,55 @@
+Programación nucba 
+16/4
+
+el curso tiene 4 modulos 
+
+__diseño web -> introdución a la web
+_html
+
+visión general
+vscode
+historia de html
+
+estructura básica: 
+!doctype: indica la versión de html que usamos. 
+
+html: indica el contenido del documento o pagina. 
+
+head: provee info acerca del documento, x ejemplo de que se trata la pagina o que hoja de estilo lleve o que scripst necesite para tener interacción.
+
+body: dentro de esta etiqueta va todo lo que el usuario puede ver.
+
+----------------------------------
+
+* html: estructura, css: apariencia, javascript: dinamismo o acciones.
+
+----------------------------------
+
+abrimos el visual
+
+creamos una carpeta nucba
+dentro ponemos carpetas, clase 1,2,3,etc
+
+en la clase 1 creamos un index.html
+
+vamos haciento la estructura que nos dieron mas arriba.
+
+si ponemos "!" y le damos a enter nos va a dar la estructura basica de html.
+
+-----------------------------------
+
+*hay etiquetas en html que son solamente para texo
+
+por ejemplo para titulos <h1> a <h6>
+tambien <p> que son parrafos
+para destacar alguna palabra en particular podemos usar la etiqueta <span>
+<b>,<i>,<strong> etiquetas que podrian agregar estilo pero no debiera utilizarse porque de esto se encarga css
+<a> es una etiqueta que hace hipervinculo
+<pre> para q el formato del texto venga predefinido
+<code> para escribir codigo y que lo vea el cliente
+-----------------------------------
+
+hay otros elementos tambien como las listas:
+tenemos <ol> lista ordenada y <ul> lista desordenada 
+para que estas listas tengan elementos hay que poner <li> dentro de ellas
+
